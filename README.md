@@ -3,10 +3,12 @@
 //Login and Authentication
 For Admin: 
 username : harshal@example.com
+
 password : harsh151
 
 For Non-Admin:
 username : rohan@example.com
+
 password : password
 
 //Admin Features
