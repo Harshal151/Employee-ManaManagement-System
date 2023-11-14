@@ -1,13 +1,14 @@
 # Employee-ManaManagement-System
 
 //Login and Authentication
-For Admin: 
+
+*For Admin*: 
 
 username : harshal@example.com
 
 password : harsh151
 
-For Non-Admin:
+*For Non-Admin*:
 
 username : rohan@example.com
 
